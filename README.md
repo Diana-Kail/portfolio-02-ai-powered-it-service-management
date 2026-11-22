@@ -56,6 +56,8 @@ Provides each ticket with a predefined Knowledge Base containing 10 synthetic ar
 
 **4. AI Ticket Analysis**
 
+![Workflow](./screenshots/Portfolio%2002%20—%20AI-powered%20IT%20Service%20Management.png)
+
 Uses Basic LLM Chain and the local Qwen3:8b model through Ollama to:
 
 - Identify the ticket category and priority.
@@ -197,6 +199,8 @@ The report includes:
 - Reasons for escalation.
 
 The report is automatically sent by email through the Resend API.
+
+![Management report](./screenshots/ITSM%20report.jpg)
 
 ## 7. Technologies and Tools
 
